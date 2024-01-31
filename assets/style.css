@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #city-search {
+    margin: 20px;
+    
+  }
+  
+  .card {
+    margin: 20px;
+  }
+  
+  .five-day-forecast {
+    padding-top: 50px;
+  }
+  
+  .weather-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  h4 {
+    font-size: 15px;
+  }
