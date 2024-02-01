@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project I was creating a weather dashboard that provided weather outlook for multiple cities
+In this project I was creating a weather dashboard that provided weather outlook for multiple cities.
 
 ## Tasks Completed
 
@@ -10,6 +10,6 @@ I created a search function that displayed current weather temperature, wind spe
 
 ## Links
 
-Github URL - 
+Github URL - https://github.com/natesanow/Weather-Dashboard
 
-Link URL - 
+Link URL - https://natesanow.github.io/Weather-Dashboard/
