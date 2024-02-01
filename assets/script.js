@@ -69,7 +69,7 @@ function getWeather(event) {
 }
 
 searchBtn.addEventListener("click", getWeather);
-localStorage.setItem(cityName, cityNameHtml);
+
   
 
 
